@@ -1,7 +1,7 @@
 ここでは全側面にすることで考えられることを好き放題書いていく所である。
 まずこれがなるべく暁月となるべく外観を変えないようにモデリングしたものである。
 まあ見ても分からないですけど一体化しているのです。
-![全側面一体化](https://raw.githubusercontent.com/yoshiharatakuya/gearboxinteglation/master/sharephoto/%E5%85%A8%E5%81%B4%E9%9D%A2%E4%B8%80%E4%BD%93%E5%8C%96.png)
+![全側面一体化](https://raw.githubusercontent.com/yoshiharatakuya/gearboxinteglation/master/sharephoto/%E5%85%A8%E5%81%B4%E9%9D%A2.png)
 組み立て方法としてはシャフトのまでの組み立ては今までと変わらずに行うことができます。
 上フランジから出ている小ギア部の部分だけ側面部を削り大ギア等を仮組みしたギアボをスライドして
 することで組みあがることになっている（組みあがらないと困る←）おそらく少しは横方向にもずらせるように
